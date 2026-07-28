@@ -1,0 +1,36 @@
+# These keys stay in English in every catalogue. See README.
++10000000000
+:month :day
+:year 
+:year :month
+API
+Birdseye
+CPU
+Custom Site
+Custom Site Hosting
+Custom site
+Custom websites
+Extensions
+Flarum
+Flarum Hosting
+H:i
+Horizon
+ID
+MCP
+Markdown
+PHP
+RAM
+Redis
+SEO
+Sandbox
+The Numbers
+URL
+Uptime Monitoring
+Wall of Love
+Warble
+Y-m
+Y-m-d
+api:token chat_id
+app_token user_key
+ms
+μs
